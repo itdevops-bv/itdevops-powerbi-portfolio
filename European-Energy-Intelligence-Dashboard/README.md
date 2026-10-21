@@ -1,1 +1,36 @@
-<img width="1817" height="2268" alt="image" src="https://github.com/user-attachments/assets/409d4b6d-305f-4a30-9863-ef5c00deb95c" />
+# European Energy Intelligence Dashboard
+
+Interactive Power BI dashboard analysing European energy consumption trends and country benchmarking.
+
+## Dashboard Preview
+
+![Dashboard Preview](european-energy-intelligence-dashboard.png)
+
+## Overview
+
+This dashboard demonstrates Power BI reporting capabilities including:
+
+- KPI reporting
+- Trend analysis
+- Country benchmarking
+- Interactive filtering
+- Top 10 country ranking
+
+## Key Metrics
+
+- Total Energy Consumption
+- Countries Covered
+- Energy Consumption Trends
+- Country Comparison
+
+## Technologies Used
+
+- Power BI
+- Power Query
+- DAX
+
+## Created By
+
+**ItDevOPS BV**
+
+Power BI & Data Analytics Portfolio

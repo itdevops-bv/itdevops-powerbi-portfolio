@@ -33,4 +33,4 @@ Our Power BI portfolio demonstrates reporting, analytics and dashboarding capabi
 
 ## About ItDevOPS
 
-ItDevOPS BV helps organisations transform data into actionable insights through Business Intelligence, Data Analytics, Automation and DevOps solutions.
+ItDevOPS BV helps organisations turn data into actionable insights through Business Intelligence, Data Analytics, Automation and DevOps services.

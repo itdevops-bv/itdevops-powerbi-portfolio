@@ -22,13 +22,14 @@ Technology stack:
 - Power Query
 - DAX
 
-## What's Next
+## Dashboard Portfolio
 
-Upcoming portfolio projects:
+Current and planned dashboard categories:
 
-- Renewable Energy Analysis
-- IT Operations Dashboard
-- Cybersecurity Analytics Dashboard
+- Energy & Sustainability
+- IT Operations 
+- Cybersecurity & Risk Management
+- Business Performance Analytics
 
 ## About ItDevOPS
 

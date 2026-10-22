@@ -22,9 +22,9 @@ Technology stack:
 - Power Query
 - DAX
 
-## Dashboard Portfolio
+## Areas of Expertise
 
-Current and planned dashboard categories:
+We develop interactive dashboards and analytics solutions across multiple domains:
 
 - Energy & Sustainability
 - IT Operations 

@@ -24,12 +24,12 @@ Technology stack:
 
 ## Areas of Expertise
 
-We develop interactive dashboards and analytics solutions across multiple domains:
+Our Power BI portfolio demonstrates reporting, analytics and dashboarding capabilities across multiple domains, including:
 
 - Energy & Sustainability
 - IT Operations 
-- Cybersecurity & Risk Management
-- Business Performance Analytics
+- Cybersecurity
+- Business Intelligence & Performance Analytics
 
 ## About ItDevOPS
 

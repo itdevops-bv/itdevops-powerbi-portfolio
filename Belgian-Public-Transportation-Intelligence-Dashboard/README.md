@@ -42,6 +42,8 @@ Key capabilities:
 - Top 10 Railway Destinations
 - Executive-Level Reporting
 
+![Executive Overview](./executive-overview.png)
+
 ### Network Coverage Analysis
 
 Power BI dashboard focused on network coverage and international railway connectivity.
@@ -53,6 +55,8 @@ Key capabilities:
 - Cross-Border Railway Analysis
 - International Connectivity Insights
 - Top Cross-Border Railway Destinations
+
+![Network Coverage Analysis](./network-coverage-analysis.png)
 
 ## Dashboard Preview
 

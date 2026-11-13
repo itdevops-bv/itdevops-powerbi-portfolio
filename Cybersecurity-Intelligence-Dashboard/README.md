@@ -35,7 +35,7 @@ The Executive Security Overview provides a high-level view of cybersecurity acti
 
 ### Dashboard Preview
 
-./executive-security-overview.png
+![Executive Security Overview](./executive-security-overview.png)
 
 ---
 
@@ -59,7 +59,7 @@ The Threat Intelligence Analysis page provides a more detailed view of attack pa
 
 ### Dashboard Preview
 
-./threat-intelligence-analysis.png
+![Threat Intelligence Analysis](./threat-intelligence-analysis.png)
 
 ---
 

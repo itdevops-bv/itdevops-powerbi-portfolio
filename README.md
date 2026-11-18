@@ -2,88 +2,195 @@
 
 A collection of Business Intelligence and Data Analytics dashboards developed by ItDevOPS BV.
 
+This portfolio demonstrates practical experience with Microsoft Power BI, Power Query, DAX, data modeling, KPI reporting, and interactive dashboard development across multiple business domains.
+
+---
+
 ## Available Dashboards
 
 ### 01 — European Energy Intelligence Dashboard
 
-Power BI dashboard focused on European energy consumption trends, country benchmarking and KPI reporting.
+Power BI dashboard focused on European energy consumption trends, country benchmarking, and KPI reporting.
 
-Key capabilities:
+**Key capabilities:**
+- Energy consumption analysis
+- Country-level comparisons
+- KPI monitoring
+- Trend analysis
+- Interactive reporting
+- Data transformation with Power Query
+- DAX measures for analytical reporting
 
-- KPI Monitoring
-- Trend Analysis
-- Country Benchmarking
-- Interactive Filtering
-- Top 10 Energy Consumers
-
-Technology stack:
-
-- Power BI
+**Technology Stack:**
+- Microsoft Power BI
 - Power Query
 - DAX
+- Data Visualization
+- Business Intelligence
+
+[View European Energy Intelligence Dashboard](./European-Energy-Intelligence-Dashboard/)
 
 ---
 
 ### 02 — Belgian Public Transportation Intelligence Dashboard
 
-Power BI dashboard focused on Belgian railway network analysis, route coverage and cross-border connectivity using NMBS/SNCB GTFS open data.
+Power BI dashboard focused on Belgian public transportation data, operational analysis, and performance monitoring.
 
-Key capabilities:
+**Key capabilities:**
+- Public transportation analysis
+- Operational KPI reporting
+- Performance comparisons
+- Interactive dashboard navigation
+- Data transformation and preparation
+- DAX-based calculations
+- Business Intelligence reporting
 
-- Railway Network Analysis
-- Interactive Filtering
-- Azure Maps Integration
-- Network Coverage Analysis
-- Cross-Border Railway Analysis
-
-Technology stack:
-
+**Technology Stack:**
 - Microsoft Power BI
 - Power Query
 - DAX
-- Azure Maps
-- GTFS Open Data
+- Data Visualization
+- Business Intelligence
+
+[View Belgian Public Transportation Intelligence Dashboard](./Belgian-Public-Transportation-Intelligence-Dashboard/)
 
 ---
 
 ### 03 — Cybersecurity Intelligence Dashboard
 
-Power BI dashboard focused on cybersecurity events, threat severity, attack patterns and security analytics.
+Power BI dashboard analyzing **40,000 cybersecurity events** across executive security monitoring, threat intelligence, and security operations.
 
-**Status: Work in Progress**
+The project consists of three analytical dashboard pages:
 
-Current capabilities:
+1. **Executive Security Overview**
+2. **Threat Intelligence Analysis**
+3. **Security Operations**
 
-- Executive Security Overview
-- Total Security Events
-- High Severity Events
-- Average Anomaly Score
-- Malware Indicator Analysis
-- Attack Type Analysis
-- Severity Analysis
-- DAX Measures
+**Key capabilities:**
+- Executive security monitoring and KPI reporting
+- Attack type and severity analysis
+- Threat signature analysis
+- Network segment analysis
+- Protocol and traffic analysis
+- IDS/IPS alert monitoring
+- Firewall event analysis
+- Security response analysis
+- Log source analysis
+- DAX measures for cybersecurity KPIs
 
-Technology stack:
+**Key security metrics:**
+- **40,000** Total Security Events
+- **13,382** High Severity Events
+- **20,000** Malware Indicators Detected
+- **19,950** IDS/IPS Alerts
+- **20,039** Firewall Events
+- **19,933** Alerts Triggered
 
+**Technology Stack:**
 - Microsoft Power BI
 - Power Query
 - DAX
 - Cybersecurity Event Analytics
+- Data Visualization
+- Business Intelligence
+
+**Status:** Complete
+
+#### Dashboard Preview
+
+![Security Operations Dashboard](./Cybersecurity-Intelligence-Dashboard/security-operations.png)
+
+[View complete Cybersecurity Intelligence Dashboard](./Cybersecurity-Intelligence-Dashboard/)
 
 ---
 
-## Areas of Expertise
+## Portfolio Overview
 
-Our Power BI portfolio demonstrates reporting, analytics and dashboarding capabilities across multiple domains, including:
+| Project | Domain | Key Focus | Status |
+| --- | --- | --- | --- |
+| European Energy Intelligence Dashboard | Energy | Consumption, trends and country benchmarking | Complete |
+| Belgian Public Transportation Intelligence Dashboard | Transportation | Operational performance and KPI analysis | Complete |
+| Cybersecurity Intelligence Dashboard | Cybersecurity | Threat intelligence, detection and security operations | Complete |
 
-- Energy & Sustainability
-- Transportation Analytics
-- Cybersecurity
-- Business Intelligence & Performance Analytics
+---
 
-## About ItDevOPS
+## Core Skills Demonstrated
 
-ItDevOPS BV helps organisations turn data into actionable insights through Business Intelligence, Data Analytics, Automation and DevOps services.
+### Microsoft Power BI
+- Interactive dashboard development
+- KPI design and reporting
+- Data visualization
+- Dashboard layout and visual hierarchy
+- Cross-filtering and interactive analysis
+
+### Power Query
+- Data cleaning
+- Data transformation
+- Data preparation
+- Column management
+- Dataset structuring
+
+### DAX
+- Custom measures
+- Event counts
+- KPI calculations
+- Analytical aggregations
+- Filter-based calculations
+
+### Data Analytics
+- Exploratory data analysis
+- Trend analysis
+- Category comparisons
+- Operational analysis
+- Executive-level reporting
+- Domain-specific analytical reporting
+
+---
+
+## Dashboard Domains
+
+The portfolio currently covers three analytical domains:
+
+1. **Energy Analytics**  
+   Analysis of European energy consumption and country-level performance.
+
+2. **Transportation Analytics**  
+   Analysis of Belgian public transportation operations and performance.
+
+3. **Cybersecurity Analytics**  
+   Analysis of security events, attack patterns, network activity, detection, logging, and response.
+
+---
+
+## Tools and Technologies
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Data Visualization
+- Business Intelligence
+- Data Analytics
+- GitHub
+
+---
+
+## Repository Structure
+
+```text
+itdevops-powerbi-portfolio/
+│
+├── European-Energy-Intelligence-Dashboard/
+│
+├── Belgian-Public-Transportation-Intelligence-Dashboard/
+│
+├── Cybersecurity-Intelligence-Dashboard/
+│   ├── README.md
+│   ├── executive-security-overview.png
+│   ├── threat-intelligence-analysis.png
+│   └── security-operations.png
+│
+└── README.md
 ## Developed By
 
 **ItDevOPS BV**

@@ -191,6 +191,9 @@ itdevops-powerbi-portfolio/
 │   └── security-operations.png
 │
 └── README.md
+
+Each project directory contains project-specific documentation and dashboard previews.
+
 ## Developed By
 
 **ItDevOPS BV**

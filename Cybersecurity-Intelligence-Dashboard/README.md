@@ -2,16 +2,19 @@
 
 Interactive Microsoft Power BI dashboard focused on cybersecurity events, threat intelligence, network exposure, and security operations.
 
+The dashboard analyzes **40,000 cybersecurity event records** across three analytical pages, providing an executive overview, detailed threat intelligence, and operational security analysis.
+
+---
+
 ## Project Status
 
-**In Development**
+**Complete**
 
-Two dashboard pages are currently complete:
+The dashboard consists of three completed pages:
 
 - Executive Security Overview
 - Threat Intelligence Analysis
-
-The Security Operations page is planned as the third and final dashboard page.
+- Security Operations
 
 ---
 
@@ -35,7 +38,7 @@ The Executive Security Overview provides a high-level view of cybersecurity acti
 
 ### Dashboard Preview
 
-![Executive Security Overview](./executive-security-overview.png)
+![Executive Security Overview](executive-security-overview.png)
 
 ---
 
@@ -59,21 +62,38 @@ The Threat Intelligence Analysis page provides a more detailed view of attack pa
 
 ### Dashboard Preview
 
-![Threat Intelligence Analysis](./threat-intelligence-analysis.png)
+![Threat Intelligence Analysis](threat-intelligence-analysis.png)
 
 ---
 
 ## 3. Security Operations
 
-The Security Operations page is planned as the third and final dashboard page. It will focus on operational security monitoring, detection, logging, and response.
+The Security Operations page focuses on security detection, logging, and response activity.
 
-### Planned Analysis
+### Key Metrics
 
-- IDS/IPS Alerts
-- Firewall Events
-- Alerts and Warnings
-- Actions Taken
-- Log Source Analysis
+- **19,950** IDS/IPS Alerts
+- **20,039** Firewall Events
+- **19,933** Alerts Triggered
+- **40,000** Total Security Events
+
+### Key Analysis
+
+- Security Events by Action Taken
+- Security Events by Log Source
+- Security Response by Log Source
+
+### Key Insights
+
+- **13,529** security events were blocked.
+- **13,276** security events were ignored.
+- **13,195** security events were logged.
+- Firewall was the log source for **20,116** events, compared with **19,884** events from the server log source.
+- The Security Response by Log Source matrix combines response actions and log sources to provide a more detailed view of operational security activity.
+
+### Dashboard Preview
+
+![Security Operations](security-operations.png)
 
 ---
 
@@ -108,13 +128,13 @@ The dashboard is structured around three areas:
 
 ---
 
-## Development Roadmap
+## Dashboard Structure
 
-| Dashboard Page | Status |
-| --- | --- |
-| Executive Security Overview | Complete |
-| Threat Intelligence Analysis | Complete |
-| Security Operations | Planned |
+| Dashboard Page | Focus | Status |
+| --- | --- | --- |
+| Executive Security Overview | Security activity and risk | Complete |
+| Threat Intelligence Analysis | Attack and network patterns | Complete |
+| Security Operations | Detection, logging, and response | Complete |
 
 ---
 

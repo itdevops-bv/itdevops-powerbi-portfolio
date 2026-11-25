@@ -41,7 +41,7 @@ The Executive Incident Overview provides a management-level view of incident dur
 
 ### Dashboard Preview
 
-executive-incident-overview.png
+![Executive Incident Overview](executive-incident-overview.png)
 
 ---
 

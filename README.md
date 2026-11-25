@@ -65,7 +65,7 @@ Power BI dashboard analyzing **40,000 cybersecurity events** across executive se
 
 #### Dashboard Preview
 
-./Cybersecurity-Intelligence-Dashboard/security-operations.png
+![Security Operations Dashboard](./Cybersecurity-Intelligence-Dashboard/security-operations.png)
 
 [View Cybersecurity Intelligence Dashboard](./Cybersecurity-Intelligence-Dashboard/)
 
@@ -95,7 +95,7 @@ The project uses a documented Microsoft 365 service disruption as a public case 
 
 #### Current Dashboard Preview
 
-./Microsoft-365-Service-Resilience-Dashboard/executive-incident-overview.png
+![Executive Incident Overview](./Microsoft-365-Service-Resilience-Dashboard/executive-incident-overview.png)
 
 [View Microsoft 365 Service Resilience Dashboard](./Microsoft-365-Service-Resilience-Dashboard/)
 

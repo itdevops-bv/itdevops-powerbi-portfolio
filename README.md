@@ -1,8 +1,8 @@
 # ItDevOPS Power BI Portfolio
 
-A collection of Business Intelligence and Data Analytics dashboards developed by **ItDevOPS BV**.
+A portfolio of Business Intelligence and Data Analytics solutions developed by **ItDevOPS BV** using Microsoft Power BI.
 
-This portfolio demonstrates practical experience with Microsoft Power BI, Power Query, DAX, data modeling, KPI reporting, and interactive dashboard development across multiple business and technology domains.
+The projects in this repository demonstrate practical experience with data preparation, data modeling, DAX, KPI reporting, interactive visualization, and analytical dashboard design across multiple business and technology domains.
 
 ---
 
@@ -10,25 +10,15 @@ This portfolio demonstrates practical experience with Microsoft Power BI, Power 
 
 ### 01 — European Energy Intelligence Dashboard
 
-Power BI dashboard focused on European energy consumption trends, country benchmarking, and KPI reporting.
+Power BI dashboard focused on European energy consumption, country benchmarking, trend analysis, and KPI reporting.
 
 **Key capabilities:**
-
 - Energy consumption analysis
-- Country-level comparisons
-- KPI monitoring
+- Country-level benchmarking
 - Trend analysis
-- Interactive reporting
-- Data transformation with Power Query
-- DAX measures for analytical reporting
-
-**Technology Stack:**
-
-- Microsoft Power BI
-- Power Query
-- DAX
-- Data Visualization
-- Business Intelligence
+- KPI monitoring
+- Power Query data transformation
+- DAX-based analytical reporting
 
 **Status:** Complete
 
@@ -38,25 +28,15 @@ Power BI dashboard focused on European energy consumption trends, country benchm
 
 ### 02 — Belgian Public Transportation Intelligence Dashboard
 
-Power BI dashboard focused on Belgian public transportation data, operational analysis, and performance monitoring.
+Power BI dashboard focused on Belgian public transportation performance, operational analysis, and KPI monitoring.
 
 **Key capabilities:**
-
 - Public transportation analysis
 - Operational KPI reporting
 - Performance comparisons
 - Interactive dashboard navigation
-- Data transformation and preparation
+- Data preparation with Power Query
 - DAX-based calculations
-- Business Intelligence reporting
-
-**Technology Stack:**
-
-- Microsoft Power BI
-- Power Query
-- DAX
-- Data Visualization
-- Business Intelligence
 
 **Status:** Complete
 
@@ -68,42 +48,18 @@ Power BI dashboard focused on Belgian public transportation data, operational an
 
 Power BI dashboard analyzing **40,000 cybersecurity events** across executive security monitoring, threat intelligence, and security operations.
 
-The project consists of three analytical dashboard pages:
-
-1. **Executive Security Overview**
-2. **Threat Intelligence Analysis**
-3. **Security Operations**
+**Dashboard pages:**
+1. Executive Security Overview
+2. Threat Intelligence Analysis
+3. Security Operations
 
 **Key capabilities:**
-
-- Executive security monitoring and KPI reporting
-- Attack type and severity analysis
-- Threat signature analysis
-- Network segment analysis
-- Protocol and traffic analysis
-- IDS/IPS alert monitoring
-- Firewall event analysis
+- Security KPI monitoring
+- Attack and severity analysis
+- Threat intelligence analysis
+- Network and protocol analysis
+- IDS/IPS and firewall monitoring
 - Security response analysis
-- Log source analysis
-- DAX measures for cybersecurity KPIs
-
-**Key security metrics:**
-
-- **40,000** Total Security Events
-- **13,382** High Severity Events
-- **20,000** Malware Indicators Detected
-- **19,950** IDS/IPS Alerts
-- **20,039** Firewall Events
-- **19,933** Alerts Triggered
-
-**Technology Stack:**
-
-- Microsoft Power BI
-- Power Query
-- DAX
-- Cybersecurity Event Analytics
-- Data Visualization
-- Business Intelligence
 
 **Status:** Complete
 
@@ -111,7 +67,7 @@ The project consists of three analytical dashboard pages:
 
 ./Cybersecurity-Intelligence-Dashboard/security-operations.png
 
-[View complete Cybersecurity Intelligence Dashboard](./Cybersecurity-Intelligence-Dashboard/)
+[View Cybersecurity Intelligence Dashboard](./Cybersecurity-Intelligence-Dashboard/)
 
 ---
 
@@ -119,44 +75,21 @@ The project consists of three analytical dashboard pages:
 
 Power BI incident intelligence dashboard focused on Microsoft 365 service disruption, incident recovery, service impact, and operational resilience.
 
-The project uses Microsoft 365 incident references **EX1550543 / MO1550821** as a public case study for service resilience and incident analytics.
+The project uses a documented Microsoft 365 service disruption as a public case study to demonstrate a more advanced multi-table Power BI model and incident analytics approach.
 
-**Current dashboard pages:**
-
-1. **Executive Incident Overview** — Complete
-2. **Service Impact Analysis** — In Development
-3. **Incident Timeline & Root Cause** — Planned
-4. **Business Continuity & Resilience** — Planned
-
-**Current key metrics:**
-
-- **23h 50m** Incident Duration
-- **14** Services Impacted
-- **3** Critical Services
-- **Resolved** Recovery Status
+**Dashboard progress:**
+1. Executive Incident Overview — Complete
+2. Service Impact Analysis — In Development
+3. Incident Timeline & Root Cause — Planned
+4. Business Continuity & Resilience — Planned
 
 **Key capabilities:**
-
-- Incident duration and status analysis
+- Incident duration and recovery analysis
 - Service impact modeling
-- Incident milestone classification
-- Recovery progress analysis
-- Service criticality modeling
 - Relational Power BI data modeling
-- Incident and service bridge tables
-- Operational resilience analysis
-- Source and methodology documentation
-
-**Technology Stack:**
-
-- Microsoft Power BI
-- Power Query
-- DAX
-- Data Modeling
-- Incident Analytics
-- IT Service Management Analytics
-- Operational Resilience
-- Data Visualization
+- Service criticality analysis
+- Incident milestone classification
+- Operational resilience reporting
 
 **Status:** In Development
 
@@ -175,81 +108,25 @@ The project uses Microsoft 365 incident references **EX1550543 / MO1550821** as 
 | European Energy Intelligence Dashboard | Energy | Consumption, trends and country benchmarking | Complete |
 | Belgian Public Transportation Intelligence Dashboard | Transportation | Operational performance and KPI analysis | Complete |
 | Cybersecurity Intelligence Dashboard | Cybersecurity | Threat intelligence, detection and security operations | Complete |
-| Microsoft 365 Service Resilience Dashboard | IT Operations / Service Resilience | Incident recovery, service impact and operational resilience | In Development |
+| Microsoft 365 Service Resilience Dashboard | IT Operations | Incident recovery, service impact and operational resilience | In Development |
 
 ---
 
-## Core Skills Demonstrated
+## Core Capabilities
 
-### Microsoft Power BI
-
-- Interactive dashboard development
-- KPI design and reporting
-- Data visualization
-- Dashboard layout and visual hierarchy
-- Cross-filtering and interactive analysis
-- Multi-page analytical reporting
-
-### Power Query
-
-- Data cleaning
-- Data transformation
-- Data preparation
-- Data type management
-- Dataset structuring
-- Multi-table data preparation
-
-### DAX
-
-- Custom measures
-- KPI calculations
-- Event and incident metrics
-- Filter-based calculations
-- Calculated columns
-- Time-based analytical calculations
-
-### Data Modeling
-
+- Business Intelligence dashboard development
+- Data preparation and transformation
 - Relational data modeling
-- One-to-many relationships
-- Bridge tables
-- Incident-to-service relationships
-- Source traceability
-- Separation of sourced facts and analytical modelling assumptions
-
-### Data Analytics
-
-- Exploratory data analysis
-- Trend analysis
-- Category comparisons
-- Operational analysis
-- Executive-level reporting
+- DAX measures and calculated columns
+- KPI design and executive reporting
+- Interactive data visualization
+- Trend and operational analysis
 - Cybersecurity analytics
-- Incident analytics
-- Service resilience analysis
-- Domain-specific analytical reporting
+- Incident and service resilience analytics
 
 ---
 
-## Dashboard Domains
-
-The portfolio currently covers four analytical domains:
-
-1. **Energy Analytics**  
-   Analysis of European energy consumption and country-level performance.
-
-2. **Transportation Analytics**  
-   Analysis of Belgian public transportation operations and performance.
-
-3. **Cybersecurity Analytics**  
-   Analysis of security events, attack patterns, network activity, detection, logging, and response.
-
-4. **IT Service Resilience Analytics**  
-   Analysis of service disruption, incident progression, recovery, service impact, and operational resilience.
-
----
-
-## Tools and Technologies
+## Technology Stack
 
 - Microsoft Power BI
 - Power Query
@@ -258,8 +135,6 @@ The portfolio currently covers four analytical domains:
 - Data Visualization
 - Business Intelligence
 - Data Analytics
-- Incident Analytics
-- Operational Resilience
 - GitHub
 
 ---
@@ -270,10 +145,8 @@ The portfolio currently covers four analytical domains:
 itdevops-powerbi-portfolio/
 │
 ├── European-Energy-Intelligence-Dashboard/
-│
 ├── Belgian-Public-Transportation-Intelligence-Dashboard/
-│
 ├── Cybersecurity-Intelligence-Dashboard/
-│   ├── README.md
-│   ├── executive-security-overview.png
-│   ├── threat-intelligence-
+├── Microsoft-365-Service-Resilience-Dashboard/
+│
+└── README.md
